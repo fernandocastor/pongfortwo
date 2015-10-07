@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Pong for Two
 //
-//  Created by Amália Camara on 04/10/15.
+//  Created by Fernando Castor on 04/10/15.
 //  Copyright © 2015 Fernando Castor. All rights reserved.
 //
 
